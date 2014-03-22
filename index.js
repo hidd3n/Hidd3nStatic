@@ -1,3 +1,1 @@
-var pubHTML = """
-<h1>Testing</h1>
-""";
+var pubHTML = "<h1>Testing</h1>";
