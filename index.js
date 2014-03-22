@@ -1,2 +1,3 @@
-alert("hi!");
-document.write('<h1>Hello World</h1>');
+var pubHTML = """
+<h1>Testing</h1>
+"""
